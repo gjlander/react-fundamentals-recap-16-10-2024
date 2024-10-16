@@ -22,7 +22,7 @@ const renderDucks = (ducksArray) => {
     });
 };
 
-// renderDucks(ducksInThePond);
+renderDucks(ducksInThePond);
 
 // motivateBtn.addEventListener('click', () => alert('You got this!'));
 
